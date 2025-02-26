@@ -1,4 +1,4 @@
-# GPT-Scripts
+# Scripts
 Scripts created using Copilot and MedtronicGPT to assist with the IFU creation process.
 
 convert_all_tmx_in_directory, convert_tmx_to_txt, & convert_xml_to_txt
